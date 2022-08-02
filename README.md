@@ -28,7 +28,6 @@ model.evaluate : 0.0010310098296031356
 ```
 <hr>
 
-**plot :**
 ![Sine](Sine.png)
 
 <hr>
@@ -57,5 +56,4 @@ model.evaluate : 0.0020051589235663414
 ```
 <hr>
 
-**plot :**
 ![Cosine](Cosine.png)
